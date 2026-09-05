@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Ameen Mohammed Adam. Welcome to my GitHub profile.
+
+- LinkedIn: [Ameen Mohammed Adam](https://www.linkedin.com/in/ameen-mohammed-adam/)
+
 <!--
 **Ameen-mohammed-Adam/Ameen-mohammed-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
